@@ -6,7 +6,7 @@ dependencies:
   - python=2.7
   - ipython
   - jupyter
-  - jupyterlab=0.35
+  - jupyterlab
   - scipy
   - numpy=1.15
   - scikit-learn
