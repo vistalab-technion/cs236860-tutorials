@@ -10,7 +10,6 @@ dependencies:
   - scipy
   - numpy=1.15
   - scikit-learn
-  - skimage
-  - rise
+  - opencv
   - pip:
     - matplotlib~=3.0
