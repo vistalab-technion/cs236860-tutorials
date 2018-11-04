@@ -2,7 +2,7 @@
 Tutorials for DIP course
 
 
-# Setting up for the first time:
+# Setting up:
 1) Make sure conda is installed on your PC.
 
 2) Create an environment using the .yml file in this repo using
