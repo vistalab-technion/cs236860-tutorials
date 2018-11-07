@@ -3,13 +3,14 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=2.7
+  - python
   - ipython
   - jupyter
   - jupyterlab
   - scipy
-  - numpy=1.15
+  - numpy
   - scikit-learn
+  - scikit-image
   - opencv
   - pip:
     - matplotlib
