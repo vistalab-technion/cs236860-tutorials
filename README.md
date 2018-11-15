@@ -18,13 +18,7 @@ Tutorials for DIP course
 
 -  Whenever you wish to run the tutorial, you can just enter the environment by running: 
    
-   ### Linux users:
-   
-   "conda env activate cs236860-tutorials"
-   
-   ### Windows users:
-   
-   "activate cs236860-tutorials"
+   "conda activate cs236860-tutorials"
 
 -  After a new tutorial is uploaded, just enter environment using the "activate" command and run
 
