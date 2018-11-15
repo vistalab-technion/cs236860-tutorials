@@ -11,5 +11,7 @@ dependencies:
   - numpy=1.15
   - scikit-learn
   - opencv
+  - pillow
   - pip:
     - matplotlib
+    - rawpy
