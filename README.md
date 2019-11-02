@@ -1,27 +1,12 @@
-# cs236860-tutorials
-Tutorials for DIP course
+# CS236860 Tutorials
 
+This repo contains the code and notebooks shown during course tutorials.
 
-# Setting up:
--  Make sure conda is installed on your PC.
--  Create an environment using the .yml file provided in the repo
+After a new tutorial is added, you should run `conda env update` from the repo
+directory to update your dependencies since each new tutorial might add
+ones.
 
-    "conda env create -f environment.yml"
+You can also view the tutorial notebooks in your browser using `nbviewer` by clicking the
+button below.
 
-   This sets an environment named "cs236860-tutorials" in your conda. 
-
--  You can check all the available environments in your conda using 
-
-    "conda env list"
-
-   You are supposed to see an environment named "cs236860-tutorials"
-
--  Whenever you wish to run the tutorial, you can just enter the environment by running: 
-   
-   "conda activate cs236860-tutorials"
-
--  After a new tutorial is uploaded, just enter environment using the "activate" command and run
-
-    "conda env update"
-   
-   to get the latest packages that are additionally required.
+<a href="https://nbviewer.jupyter.org/github/vistalab-technion/cs236860-tutorials/tree/master/"><img src="https://nbviewer.jupyter.org/static/img/nav_logo.svg" height="50px"/></a>
