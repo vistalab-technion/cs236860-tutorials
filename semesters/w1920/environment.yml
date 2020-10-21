@@ -1,0 +1,14 @@
+name: cs236860-tutorials
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - ipython
+  - jupyter
+  - jupyterlab
+  - scipy
+  - numpy
+  - opencv
+  - pip:
+    - matplotlib
