@@ -2,6 +2,7 @@ name: cs236860-tutorials
 channels:
   - defaults
   - conda-forge
+  - appfanu
 dependencies:
   - python
   - ipython
@@ -10,5 +11,7 @@ dependencies:
   - scipy
   - numpy
   - opencv
+  - scikit-image
   - pip:
     - matplotlib
+    - rawpy
